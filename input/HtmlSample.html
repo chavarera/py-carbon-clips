@@ -1,0 +1,21 @@
+<!--Python World-->>
+<html>
+  <body>
+    <p>Click the button to calculate x.</p>
+    <button onclick="myFunction()">Try it</button>
+    <br/>
+    <br/>Enter first number:
+    <input type="text" id="txt1" name="text1">
+    <br>Enter second number:
+    <input type="text" id="txt2" name="text2">
+    <p id="demo"></p>
+    <script>
+      function myFunction() {
+        var y = parseInt(document.getElementById("txt1").value);
+        var z = parseInt(document.getElementById("txt2").value);
+        var x = y + z;
+        document.getElementById("demo").innerHTML = x;
+      }
+    </script>
+  </body>
+</html
