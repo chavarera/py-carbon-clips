@@ -34,6 +34,12 @@ pip install -r requirements.txt
 Use one line installation on linux
 ![Installation](https://raw.githubusercontent.com/chavarera/py-carbon-clips/master/img/install.png)
 
+## Sample Screenshots
+| C++ | Rscript | Python|
+| :-: | :-: | :-: |
+| <img src="clips/CppSample.png" width="100%"> | <img src="clips/RScriptSample.png" width="100%">  | <img src="clips/PythonSample.png" width="100%"> 
+|[More Example(Collecion of Hello World in All Programing Language)](https://github.com/chavarera/py-carbon-clips/tree/master/HelloWorld) 
+
 
 ## Usage example
 while searching customization for bash i found https://carbon.now.sh . which is an really impressive way to communicate with coding snippets.
