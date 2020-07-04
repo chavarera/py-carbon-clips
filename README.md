@@ -1,9 +1,7 @@
 # py-carbon-clips
-> A simple Python Utility To convert programming code into beautiful image snippets.
+> A simple python utility tool to convert programming code into beautiful image snippets.
 
 [![Python Version][python-image]][python-url]
-
-One to two paragraph statement about your product and what it does.
 
 ![Carbon](https://raw.githubusercontent.com/chavarera/py-carbon-clips/master/img/carbon.png)
 
@@ -33,8 +31,7 @@ pip install -r requirements.txt
 
 ## Development setup
 
-If you bored to clone and install all packages install it by single command
-
+Use one line installation on linux
 ![Installation](https://raw.githubusercontent.com/chavarera/py-carbon-clips/master/img/install.png)
 
 
