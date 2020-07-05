@@ -42,7 +42,7 @@ Use one line installation on linux
 
 
 ## Usage example
-while searching customization for bash i found https://carbon.now.sh . which is an really impressive way to communicate with coding snippets.
+while searching customization for bash **H21** suggested  https://carbon.now.sh . which is an really impressive way to communicate with coding snippets.
 
 
 ### What does carbon.now.sh do?
