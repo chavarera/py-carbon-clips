@@ -35,10 +35,11 @@ Use one line installation on linux
 ![Installation](https://raw.githubusercontent.com/chavarera/py-carbon-clips/master/img/install.png)
 
 ## Sample Screenshots
-| C++ | Rscript | Python|
-| :-: | :-: | :-: |
-| <img src="https://raw.githubusercontent.com/chavarera/py-carbon-clips/master/clips/CppSample.png" width="100%"> | <img src="https://raw.githubusercontent.com/chavarera/py-carbon-clips/master/clips/RScriptSample.png" width="100%">  | <img src="https://raw.githubusercontent.com/chavarera/py-carbon-clips/master/clips/PythonSample.png" width="100%"> 
-|[More Example(Collecion of Hello World in All Programing Language)](https://github.com/chavarera/py-carbon-clips/tree/master/HelloWorld) 
+![CPP](https://raw.githubusercontent.com/chavarera/py-carbon-clips/master/clips/CppSample.png)
+![Python](https://raw.githubusercontent.com/chavarera/py-carbon-clips/master/clips/PythonSample.png)
+![HTML](https://raw.githubusercontent.com/chavarera/py-carbon-clips/master/clips/HtmlSample.png)
+
+[More Example(Collecion of Hello World in All Programing Language)](https://github.com/chavarera/py-carbon-clips/tree/master/HelloWorld) 
 
 
 ## Usage example
